@@ -70,6 +70,8 @@ Instead of origin you can choose another name .
 
 ## Fork (github) Always
 
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/fork0.png?raw=true "")
+
 Always remember to fork before cloning! This
 allows you to have a “copy” of the original on your
 repositories that you can push changes to but that it
@@ -85,12 +87,20 @@ forking and you are trying to push your changes to the master brunch**
 
 Double check that you are in fact in your
 repositories , meaning , you have actually FORKED
-the repo
+the repo.
+
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/fork.png?raw=true "")
 
 Right after forking (NEVER FORGET STEP 1), its
 time to `git clone` inside the desired folder.
 
 ### Do the exercise
+
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/screenshot0.png?raw=true "")
+
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/screenshot1.png?raw=true "")
+
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/screenshot2.png?raw=true "")
 
 This is where the magic happens!
 
@@ -100,6 +110,8 @@ It's always good practice to repeat this process every so often while doing the 
 
 ### Pull request
 
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/PR0.png?raw=true "")
+
 Now you are done with the exercise, please remember to create a new pull with the proper title indicated by your TAs so they are able to find you.
 
-![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/PR1.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/PR1.png?raw=true "")
