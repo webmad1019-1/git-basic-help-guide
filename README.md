@@ -1,4 +1,8 @@
-## git config
+# Git basic help guide
+
+Please find next some of the most common and useful git codes we use at Ironhack.
+
+## `git config`
 
 **Use**: To set your user name and email in the main
 configuration file.
@@ -6,21 +10,21 @@ configuration file.
 **How to**: To check your name and email type in `git config --global user.name` and `git config --global user.email`. And to set your new email or name `git config --global user.name = “Pedro Sanchez”` and `git config --global user.email =
 “pedrosanchez@moncloa.com”`
 
-## git init
+## `git init`
 
 **Use**: To initialise a git repository for a new or
 existing project.
 
 **How to**: `git init` in the root of your project directory.
 
-## git clone
+## `git clone`
 
 **Use**: To copy a git repository from remote source,
 also sets the remote to original source so that you can pull again.
 
 **How to**: `git clone <:clone git url:>`
 
-## git status
+## `git status`
 
 **Use**: To check the status of files you’ve changed in
 your working directory, i.e, what all has changed
@@ -29,20 +33,20 @@ since your last commit.
 **How to**: `git status` in your working directory lists
 out all the files that have been changed.
 
-## git add
+## `git add`
 
 **Use**: adds changes to stage/index in your working directory.
 
 **How to**: `git add <:list-of-files:>` or to add all the files inside the current folder where you are git
 add .
 
-## git commit
+## `git commit`
 
 **Use**: commits your changes and sets it to new commit object for your remote.
 
 **How to**: `git commit -m”sweet little commit message”`
 
-## git push/git pull
+## `git push / git pull`
 
 **Use**: Push or Pull your changes to remote. If you
 have added and committed your changes and you
@@ -52,7 +56,7 @@ and you want those latest changes.
 **How to**: `git pull <:remote:> <:branch:>` and `git
 push <:remote:> <:branch:>`
 
-## git remote
+## `git remote`
 
 **Use**: To check what remote/source you have or
 add a new remote.
@@ -62,7 +66,7 @@ remote add origin <:remote_url:>`
 
 Instead of origin you can choose another name .
 
-# How to …. Labs (pair , daily)
+# How to... Labs (pair, daily)
 
 ## Fork (github) Always
 
