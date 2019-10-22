@@ -101,3 +101,5 @@ It's always good practice to repeat this process every so often while doing the 
 ### Pull request
 
 Now you are done with the exercise, please remember to create a new pull with the proper title indicated by your TAs so they are able to find you.
+
+![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/PR1.png?raw=true "Logo Title Text 1")
