@@ -68,7 +68,7 @@ Instead of origin you can choose another name .
 
 # How to... Labs (pair, daily)
 
-## Fork (github) Always
+## 1. Fork (github) Always
 
 ![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/fork0.png?raw=true "")
 
@@ -83,7 +83,7 @@ proper access/rights”
 **If this happens , you have cloned directly without
 forking and you are trying to push your changes to the master brunch**
 
-### Clone
+### 2. Clone
 
 Double check that you are in fact in your
 repositories , meaning , you have actually FORKED
@@ -94,7 +94,7 @@ the repo.
 Right after forking (NEVER FORGET STEP 1), its
 time to `git clone` inside the desired folder.
 
-### Do the exercise
+### 3. Do the exercise
 
 ![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/screenshot0.png?raw=true "")
 
@@ -104,11 +104,11 @@ time to `git clone` inside the desired folder.
 
 This is where the magic happens!
 
-### Add , commit , push
+### 4. Add , commit , push
 
 It's always good practice to repeat this process every so often while doing the exercise.
 
-### Pull request
+### 5. Pull request
 
 ![alt text](https://github.com/webmad1019-1/git-basic-help-guide/blob/master/img/PR0.png?raw=true "")
 
